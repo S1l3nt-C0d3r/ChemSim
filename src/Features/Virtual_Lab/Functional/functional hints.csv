@@ -1,0 +1,7 @@
+﻿Sr.,Functional,Ctest,AddTest
+1,Carboxylic acid,Add saturated NaHCO3 to compound or add C2H5OH to the solution,pass gas evolved through lime water
+2,Phenol,Add dil NaOH to compound or add neutral FeCl3,none
+3,Aldehyde,"Add schiff's reagent to compound or add tollen's reagent or add 2,4 DNP",none
+4,Ketone,"Add Sodium Nitroprusside to compund or add 2,4 DNP",none
+5,Amine,Add dil HCl and NaNO2 to compund then cool it and then add B-naphthol and NaOH,none
+6,Alcohol,Add Na to compund,"Type ""match"" to use a burning match for gas"
